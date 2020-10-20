@@ -8,15 +8,16 @@ Jingtong Su*, Yihang Chen*, Tianle Cai, Tianhao Wu, Ruiqi Gao, Liwei Wang, Jason
 
 NeurIPS 2020.
 
-###Contact
+### Contact
 Feel free to discuss papers/code with us through issues/emails!
 
 jtsu at pku.edu.cn
 yihang.chen at pku.edu.cn
 
-###Citation
+### Citation
 If you use our code in your research, please cite:
 
+~~~
 @article{su2020sanity,
   title={Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot},
   author={Su, Jingtong and Chen, Yihang and Cai, Tianle and Wu, Tianhao and Gao, Ruiqi and Wang, Liwei and Lee, Jason D},
