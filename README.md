@@ -12,6 +12,7 @@ NeurIPS 2020.
 Feel free to discuss papers/code with us through issues/emails!
 
 jtsu at pku.edu.cn
+
 yihang.chen at pku.edu.cn
 
 ### Citation
