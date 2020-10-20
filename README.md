@@ -1,9 +1,9 @@
-# sanity-checking-pruning
+# Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot
 This repository contains the code for reproducing the results in the following paper:
 
-Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot. [arXiv] [OpenReview]
+Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot. [arXiv](https://arxiv.org/abs/2009.11094)
 
-Jingtong Su*, Yihang Chen*, Tianle Cai, Tianhao Wu, Ruiqi Gao, Liwei Wang, Jason D.~Lee (* equal contribution).
+Jingtong Su*, Yihang Chen*, [Tianle Cai](https://tianle.website/), Tianhao Wu, Ruiqi Gao, [Liwei Wang](http://www.liweiwang-pku.com/), [Jason D. Lee](https://jasondlee88.github.io/) (* equal contribution, reverse alphabetical order).
 
 NeurIPS 2020.
 
