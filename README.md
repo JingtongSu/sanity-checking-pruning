@@ -1,5 +1,4 @@
 # sanity-checking-pruning
-Code for Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot
 This repository contains the code for reproducing the results in the following paper:
 
 Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot. [arXiv] [OpenReview]
