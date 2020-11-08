@@ -179,7 +179,7 @@ class CIFAR100RandomLabels(datasets.CIFAR100):
     """
 
     def __init__(self, corrupt_prob=1.0, num_classes=100, **kwargs):
-        super(CIFAR10RandomLabels, self).__init__(**kwargs)
+        super(CIFAR100RandomLabels, self).__init__(**kwargs)
         self.n_classes = num_classes
         if corrupt_prob > 0:
             self.corrupt_labels(corrupt_prob)
@@ -320,7 +320,7 @@ def main():
         if args.randLabel != 0 or args.shufflePixel != 0:
             assert args.dataset == 'cifar10' or args.dataset == 'cifar100','randLabel/shufflePixel can only be used together with cifar10/100.'
             print('###################### DEBUG PRINT : USING RANDLABEL TO CALCULATE ####################')
-            if args.datset == 'cifar10':
+            if args.dataset == 'cifar10':
                 trainset = CIFAR10RandomLabels(root='./data', train=True, download=True, transform=transform_train)
             else:
                 trainset = CIFAR100RandomLabels(root='./data', train=True, download=True, transform=transform_train)
